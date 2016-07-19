@@ -1,0 +1,8 @@
+D:\git\Labs\Factories\work\before\Logger\Client\bin\Debug\Client.exe.config
+D:\git\Labs\Factories\work\before\Logger\Client\bin\Debug\Client.exe
+D:\git\Labs\Factories\work\before\Logger\Client\bin\Debug\Client.pdb
+D:\git\Labs\Factories\work\before\Logger\Client\bin\Debug\DM.Logger.dll
+D:\git\Labs\Factories\work\before\Logger\Client\bin\Debug\DM.Logger.pdb
+D:\git\Labs\Factories\work\before\Logger\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\git\Labs\Factories\work\before\Logger\Client\obj\Debug\Client.exe
+D:\git\Labs\Factories\work\before\Logger\Client\obj\Debug\Client.pdb

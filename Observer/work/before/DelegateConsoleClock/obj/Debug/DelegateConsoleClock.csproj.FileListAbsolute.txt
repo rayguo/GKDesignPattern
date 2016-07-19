@@ -1,0 +1,6 @@
+D:\git\Labs\Observer\work\before\DelegateConsoleClock\bin\Debug\DelegateConsoleClock.exe.config
+D:\git\Labs\Observer\work\before\DelegateConsoleClock\bin\Debug\DelegateConsoleClock.exe
+D:\git\Labs\Observer\work\before\DelegateConsoleClock\bin\Debug\DelegateConsoleClock.pdb
+D:\git\Labs\Observer\work\before\DelegateConsoleClock\obj\Debug\DelegateConsoleClock.csprojResolveAssemblyReference.cache
+D:\git\Labs\Observer\work\before\DelegateConsoleClock\obj\Debug\DelegateConsoleClock.exe
+D:\git\Labs\Observer\work\before\DelegateConsoleClock\obj\Debug\DelegateConsoleClock.pdb

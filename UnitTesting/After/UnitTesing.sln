@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM.Collections", "DM.Collections\DM.Collections.csproj", "{8AE02EB4-89A0-4B13-BB43-B22ECB380F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM.Collections.Test", "DM.Collections.Test\DM.Collections.Test.csproj", "{86FF0CEE-89A9-42DD-A541-E5DC8145238A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{00D6A668-D914-4F27-A353-1CDBBD407076}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		UnitTesing.vsmdi = UnitTesing.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = UnitTesing.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE02EB4-89A0-4B13-BB43-B22ECB380F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE02EB4-89A0-4B13-BB43-B22ECB380F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE02EB4-89A0-4B13-BB43-B22ECB380F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE02EB4-89A0-4B13-BB43-B22ECB380F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FF0CEE-89A9-42DD-A541-E5DC8145238A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FF0CEE-89A9-42DD-A541-E5DC8145238A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FF0CEE-89A9-42DD-A541-E5DC8145238A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FF0CEE-89A9-42DD-A541-E5DC8145238A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

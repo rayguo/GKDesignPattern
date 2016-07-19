@@ -1,0 +1,6 @@
+D:\git\Labs\TemplateAndStrategy\work\before\Valuation\bin\Debug\Valuation.exe.config
+D:\git\Labs\TemplateAndStrategy\work\before\Valuation\bin\Debug\Valuation.exe
+D:\git\Labs\TemplateAndStrategy\work\before\Valuation\bin\Debug\Valuation.pdb
+D:\git\Labs\TemplateAndStrategy\work\before\Valuation\obj\Debug\Valuation.csprojResolveAssemblyReference.cache
+D:\git\Labs\TemplateAndStrategy\work\before\Valuation\obj\Debug\Valuation.exe
+D:\git\Labs\TemplateAndStrategy\work\before\Valuation\obj\Debug\Valuation.pdb

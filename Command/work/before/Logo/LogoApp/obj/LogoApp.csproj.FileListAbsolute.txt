@@ -1,0 +1,11 @@
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\bin\Debug\LogoApp.exe
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\bin\Debug\LogoApp.pdb
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\bin\Debug\LogoLib.dll
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\bin\Debug\LogoLib.pdb
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\obj\Debug\ResolveAssemblyReference.cache
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.LogoActionControl.resources
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.LogoForm.resources
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.Properties.Resources.resources
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.csproj.GenerateResource.Cache
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.exe
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoApp\obj\Debug\LogoApp.pdb

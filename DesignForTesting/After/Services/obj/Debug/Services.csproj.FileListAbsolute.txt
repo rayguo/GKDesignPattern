@@ -1,0 +1,14 @@
+C:\demos\DesignForTesting\Services\bin\Debug\Services.dll
+C:\demos\DesignForTesting\Services\bin\Debug\Services.pdb
+C:\demos\DesignForTesting\Services\bin\Debug\ThirdParty.dll
+C:\demos\DesignForTesting\Services\bin\Debug\ThirdParty.pdb
+C:\demos\DesignForTesting\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\demos\DesignForTesting\Services\obj\Debug\Services.dll
+C:\demos\DesignForTesting\Services\obj\Debug\Services.pdb
+C:\temp\Labs\DesignForTesting\After\Services\bin\Debug\Services.dll
+C:\temp\Labs\DesignForTesting\After\Services\bin\Debug\Services.pdb
+C:\temp\Labs\DesignForTesting\After\Services\bin\Debug\ThirdParty.dll
+C:\temp\Labs\DesignForTesting\After\Services\bin\Debug\ThirdParty.pdb
+C:\temp\Labs\DesignForTesting\After\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\temp\Labs\DesignForTesting\After\Services\obj\Debug\Services.dll
+C:\temp\Labs\DesignForTesting\After\Services\obj\Debug\Services.pdb

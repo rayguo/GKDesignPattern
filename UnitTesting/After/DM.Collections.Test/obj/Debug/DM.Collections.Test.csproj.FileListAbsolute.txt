@@ -1,0 +1,14 @@
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections.Test\bin\Debug\DM.Collections.Test.dll
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections.Test\bin\Debug\DM.Collections.Test.pdb
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections.Test\bin\Debug\DM.Collections.dll
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections.Test\bin\Debug\DM.Collections.pdb
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections.Test\obj\Debug\DM.Collections.Test.csprojResolveAssemblyReference.cache
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections.Test\obj\Debug\DM.Collections.Test.dll
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections.Test\obj\Debug\DM.Collections.Test.pdb
+C:\temp\Labs\UnitTesing\After\DM.Collections.Test\bin\Debug\DM.Collections.Test.dll
+C:\temp\Labs\UnitTesing\After\DM.Collections.Test\bin\Debug\DM.Collections.Test.pdb
+C:\temp\Labs\UnitTesing\After\DM.Collections.Test\bin\Debug\DM.Collections.dll
+C:\temp\Labs\UnitTesing\After\DM.Collections.Test\bin\Debug\DM.Collections.pdb
+C:\temp\Labs\UnitTesing\After\DM.Collections.Test\obj\Debug\DM.Collections.Test.csprojResolveAssemblyReference.cache
+C:\temp\Labs\UnitTesing\After\DM.Collections.Test\obj\Debug\DM.Collections.Test.dll
+C:\temp\Labs\UnitTesing\After\DM.Collections.Test\obj\Debug\DM.Collections.Test.pdb

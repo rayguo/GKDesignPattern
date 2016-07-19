@@ -1,0 +1,4 @@
+C:\demos\DesignForTesting\ThirdParty\bin\Debug\ThirdParty.dll
+C:\demos\DesignForTesting\ThirdParty\bin\Debug\ThirdParty.pdb
+C:\demos\DesignForTesting\ThirdParty\obj\Debug\ThirdParty.dll
+C:\demos\DesignForTesting\ThirdParty\obj\Debug\ThirdParty.pdb

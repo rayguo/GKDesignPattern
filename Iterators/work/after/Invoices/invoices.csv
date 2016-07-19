@@ -1,0 +1,18 @@
+L, 1,Apple iPod, 100.00
+L, 2,Dell Latitude, 2000.00
+L, 3,Apple, 0.39
+OS, Books
+L, 1, Practical Common Lisp, 20.99
+L, 1, Essential Windows Workflow, 20.99
+L, 1, Concurrent Programming in Java, 20.99
+OE
+L, 4,iPhone, 300.00
+OS, More Books
+L, 1, Dynamics of Software Development, 20.99
+OS, Nested Books
+L, 1, Dynamics of Software Development, 20.99
+OE
+L, 1, Pro Windows Workflow, 20.99
+L, 1, Design Patterns, 20.99
+OE
+L, 3,Zune, 300.00

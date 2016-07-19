@@ -1,0 +1,8 @@
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections\bin\Debug\DM.Collections.dll
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections\bin\Debug\DM.Collections.pdb
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections\obj\Debug\DM.Collections.dll
+X:\Dropbox\CS Singapore 3 days\Labs\UnitTesing\After\DM.Collections\obj\Debug\DM.Collections.pdb
+C:\temp\Labs\UnitTesing\After\DM.Collections\bin\Debug\DM.Collections.dll
+C:\temp\Labs\UnitTesing\After\DM.Collections\bin\Debug\DM.Collections.pdb
+C:\temp\Labs\UnitTesing\After\DM.Collections\obj\Debug\DM.Collections.dll
+C:\temp\Labs\UnitTesing\After\DM.Collections\obj\Debug\DM.Collections.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{741B4BBC-FA1C-48DF-8341-5DF837F01EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinSudoku", "WinSudoku\WinSudoku.csproj", "{F133F287-F2B1-4736-BF52-38E7BA0C87FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{4FEE527D-E4D1-4448-A5DF-54781AB53F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleUndoRedo", "SimpleUndoRedo\SimpleUndoRedo.csproj", "{F7E46D46-55F6-48B4-B281-514BF3FE4F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741B4BBC-FA1C-48DF-8341-5DF837F01EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741B4BBC-FA1C-48DF-8341-5DF837F01EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741B4BBC-FA1C-48DF-8341-5DF837F01EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741B4BBC-FA1C-48DF-8341-5DF837F01EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F133F287-F2B1-4736-BF52-38E7BA0C87FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F133F287-F2B1-4736-BF52-38E7BA0C87FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F133F287-F2B1-4736-BF52-38E7BA0C87FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F133F287-F2B1-4736-BF52-38E7BA0C87FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FEE527D-E4D1-4448-A5DF-54781AB53F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEE527D-E4D1-4448-A5DF-54781AB53F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEE527D-E4D1-4448-A5DF-54781AB53F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEE527D-E4D1-4448-A5DF-54781AB53F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E46D46-55F6-48B4-B281-514BF3FE4F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E46D46-55F6-48B4-B281-514BF3FE4F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E46D46-55F6-48B4-B281-514BF3FE4F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E46D46-55F6-48B4-B281-514BF3FE4F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

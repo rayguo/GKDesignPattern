@@ -1,0 +1,10 @@
+D:\git\Labs\Singleton\work\before\SingleWindow\bin\Debug\SingleWindow.exe.config
+D:\git\Labs\Singleton\work\before\SingleWindow\bin\Debug\SingleWindow.exe
+D:\git\Labs\Singleton\work\before\SingleWindow\bin\Debug\SingleWindow.pdb
+D:\git\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.csprojResolveAssemblyReference.cache
+D:\git\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.SearchForm.resources
+D:\git\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.Properties.Resources.resources
+D:\git\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.SexyNotepadForm.resources
+D:\git\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.csproj.GenerateResource.Cache
+D:\git\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.exe
+D:\git\Labs\Singleton\work\before\SingleWindow\obj\Debug\SingleWindow.pdb

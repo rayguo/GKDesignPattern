@@ -1,0 +1,5 @@
+D:\DM\SVN\Patterns\activities\State\work\before\EditablePerson\bin\Debug\EditablePerson.exe
+D:\DM\SVN\Patterns\activities\State\work\before\EditablePerson\bin\Debug\EditablePerson.pdb
+D:\DM\SVN\Patterns\activities\State\work\before\EditablePerson\obj\Debug\ResolveAssemblyReference.cache
+D:\DM\SVN\Patterns\activities\State\work\before\EditablePerson\obj\Debug\EditablePerson.exe
+D:\DM\SVN\Patterns\activities\State\work\before\EditablePerson\obj\Debug\EditablePerson.pdb

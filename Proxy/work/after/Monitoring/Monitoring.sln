@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{06AC9098-6A4A-4E37-B7F1-346B546F08D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitoring", "Monitoring\Monitoring.csproj", "{06E33C5B-52EA-449C-BE4F-411DE095F536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBank", "TheBank\TheBank.csproj", "{F37B9348-756B-4F9C-82A6-3955000FD2EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AC9098-6A4A-4E37-B7F1-346B546F08D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AC9098-6A4A-4E37-B7F1-346B546F08D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AC9098-6A4A-4E37-B7F1-346B546F08D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AC9098-6A4A-4E37-B7F1-346B546F08D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E33C5B-52EA-449C-BE4F-411DE095F536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E33C5B-52EA-449C-BE4F-411DE095F536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E33C5B-52EA-449C-BE4F-411DE095F536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E33C5B-52EA-449C-BE4F-411DE095F536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37B9348-756B-4F9C-82A6-3955000FD2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37B9348-756B-4F9C-82A6-3955000FD2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37B9348-756B-4F9C-82A6-3955000FD2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37B9348-756B-4F9C-82A6-3955000FD2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

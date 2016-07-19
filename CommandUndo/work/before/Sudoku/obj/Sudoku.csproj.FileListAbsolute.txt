@@ -1,0 +1,5 @@
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\Sudoku\bin\Debug\Sudoku.dll
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\Sudoku\bin\Debug\Sudoku.pdb
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\Sudoku\obj\Debug\ResolveAssemblyReference.cache
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\Sudoku\obj\Debug\Sudoku.dll
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\Sudoku\obj\Debug\Sudoku.pdb

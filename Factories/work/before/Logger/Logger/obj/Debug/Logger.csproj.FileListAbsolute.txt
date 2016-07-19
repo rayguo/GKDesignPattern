@@ -1,0 +1,5 @@
+D:\git\Labs\Factories\work\before\Logger\Logger\bin\Debug\DM.Logger.dll
+D:\git\Labs\Factories\work\before\Logger\Logger\bin\Debug\DM.Logger.pdb
+D:\git\Labs\Factories\work\before\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\git\Labs\Factories\work\before\Logger\Logger\obj\Debug\DM.Logger.dll
+D:\git\Labs\Factories\work\before\Logger\Logger\obj\Debug\DM.Logger.pdb

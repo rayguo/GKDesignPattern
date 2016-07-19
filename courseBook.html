@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:fn="http://www.w3.org/2005/xpath-functions">
+  <link rel="stylesheet" href="css/coursebook.css" type="text/css" />
+  <body>
+    <img src="Images/logo-main.jpg" />
+    <h2>Code and Test Smarter With Design Patterns in .NET</h2>
+    <ul>
+      <li>
+        <a href="#Why Design Patterns?">Why Design Patterns?</a>
+      </li>
+      <li>
+        <a href="#Singleton">Singleton</a>
+      </li>
+      <li>
+        <a href="#Strategy and Template">Strategy and Template</a>
+      </li>
+      <li>
+        <a href="#Unit Testing">Unit Testing</a>
+      </li>
+      <li>
+        <a href="#Creation Patterns">Creation Patterns</a>
+      </li>
+      <li>
+        <a href="#Observer">Observer</a>
+      </li>
+      <li>
+        <a href="#Iterator, Composite and Visitor">Iterator, Composite and Visitor</a>
+      </li>
+      <li>
+        <a href="#Decorator">Decorator</a>
+      </li>
+      <li>
+        <a href="#Command">Command</a>
+      </li>
+      <li>
+        <a href="#Proxy &amp; Interceptor">Proxy &amp; Interceptor</a>
+      </li>
+      <li>
+        <a href="#State">State</a>
+      </li>
+      <li>
+        <a href="#Design for Testing">Design for Testing</a>
+      </li>
+      <li>
+        <a href="#Test Doubles and Mocking">Test Doubles and Mocking</a>
+      </li>
+      <li>
+        <a href="#Repository Pattern">Repository Pattern</a>
+      </li>
+      <li>
+        <a href="#MVC">MVC</a>
+      </li>
+    </ul>
+    <a name="Why Design Patterns?">
+      <h3>Why Design Patterns?</h3>
+    </a>
+    <p>
+        This chapter discusses the reasons why you should study design patterns.  Design patterns offer the ability to reuse solutions not just code.  By reusing already established designs, you get a head start on problems and avoid gotchas; you benefit by learning from the experience of others; you do not have to reinvent solutions for commonly recurring problems.
+        Design patterns establish a common terminology allowing developers to use a common vocabulary and share a common viewpoint of the problem.   Design patterns provide a common point of reference during the analysis and design phase of a project.
+        The course will use UML as a means to communicate pattern intent, and this chapter will introduce key UML concepts.
+
+      </p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/01_DesignPatterns.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/01_DesignPatterns.one">Notes
+              </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Singleton">
+      <h3>Singleton</h3>
+    </a>
+    <p>
+        Some solutions require the use of a single object instance across the whole solution, for example naming services, cached objects.  This chapter will introduce the singleton pattern as a solution, along with variations for thread safety, and other varieties of single instance based on thread affinity.
+
+      </p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/02_Singleton.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/02_Singleton.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="Singleton\Singleton.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Strategy and Template">
+      <h3>Strategy and Template</h3>
+    </a>
+    <p>What we can be 100% sure of with software is that constantly needs to evolve.  What we also know is every time we change existing working code there is a risk that we will break it.  What we need is an approach that will allow the software to evolve without having to modify existing working code.  The strategy and template patterns allow us to build solutions that can evolve without the risk of effecting existing well tested code.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/03_StrategyAndTemplate.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/03_StrategyAnnTemolate.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="TemplateAndStrategy/TemplateAndStrategy.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Unit Testing">
+      <h3>Unit Testing</h3>
+    </a>
+    <p>Using unit testing comprehensively within software development is a growing movement. Unit testing allows refactoring and maintenance with the confidence that existing functionality is not broken. In this module we will look at techniques for writing good unit tests and integrating them into testing frameworks to automate the unit tests. We will see that using the tests to drive the development guides you to produce flexible, loosely-coupled code with high test coverage.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/04_UnitTesting.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/04_UnitTesting.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="UnitTesting/UnitTesting.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Creation Patterns">
+      <h3>Creation Patterns</h3>
+    </a>
+    <p>There are occasions when you want to decouple the knowledge of which type to create from the client code.  This is essential for effective unit testing.  There are a variety of creation pattern that will allow you do this by encapsulating the necessary knowledge of how to create the object thus allowing the actual implementation used to vary.   In this chapter we will look at the Factory, Builder and Prototype patterns.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/05_Creation.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/05_Creation.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="Factories/Factories.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Observer">
+      <h3>Observer</h3>
+    </a>
+    <p>The ability to notify interested entities of changes to an object state is a fundamental requirement of most Object oriented solutions.  There are many ways to do this but there is a danger that we will build a tightly coupled system, we prefer to build a loosely coupled system.  The typical way of implementing the observer pattern is to use interfaces, but we will show that delegates and events are a far more flexible and efficient way of implementing the pattern on the .NET framework</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/06_Observer.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/06_Observer.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="Observer/Observer.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Iterator, Composite and Visitor">
+      <h3>Iterator, Composite and Visitor</h3>
+    </a>
+    <p>There is often a need to access every object inside an object hierarchy, user interface control objects, documents , business entities , file systems.....The iterator pattern provides a standard means to achieve this, .NET provides a standard implementation of this, further the C# language simplifies the implementation further through language extensions.  The visitor pattern gives us the ability to layer behaviour onto the hierarchy without the need to change the underlying implementation of the hierarchy.  Continuing the theme closed for modification open for extension.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/07_IteratorComposite.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/07_IteratorComoosite.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="Iterators/Iterators.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Decorator">
+      <h3>Decorator</h3>
+    </a>
+    <p>One of the key design pattern goals is to write code that is closed for modification and open to extension, this pattern will show that an objects behaviour and responsibilities can be extended at runtime, as opposed to design time using inheritance.  This will allow us to combine a variety of behaviours far more efficiently that normal inheritance.  Examples of decorators in the framework are BufferedStream , SynchronizationWrappers and XmlValidatingReaders. </p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/08_Decorator.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/08_Decorator.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="Decorator/Decorator.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Command">
+      <h3>Command</h3>
+    </a>
+    <p>The command pattern allows us to encapsulate invocation, allowing the invoker to be decoupled from the client and the recipient, this enables us to build a variety of different invokers to deliver custom thread pooling, and invocation logging to build fault tolerant solutions.  We continue to extend the command pattern to not only encapsulate forward invocation but also undo invocation, allowing us to build a complex undo sequence through a series of simple undo commands.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/09_Command.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/09_Commann.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="Command/Command.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Proxy &amp; Interceptor">
+      <h3>Proxy &amp; Interceptor</h3>
+    </a>
+    <p>The proxy pattern manages the invocation of an object, by hiding the true nature of the location and invocation mechanism of the object, typically used to make remote method calls.   Proxies have a host of uses from the conventional RPC style to more elaborate uses such as virtual proxies, security proxies and caching proxies.   Proxies can be built manually, using the CLR or using third party libraries often taking advantage of the interceptor pattern.  In this module we will look at all three approaches to build effective proxies.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/10_Proxy.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/10_Proxy.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="Proxy/Proxy.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="State">
+      <h3>State</h3>
+    </a>
+    <p>In many cases object behaviour will depend on the state an object is in, we typically model the internals of objects through the use of finite state machine.  This pattern provides a means to map a finite state machine into a series of classes where each class represents a different state, and thus providing different behaviours.   This approach allows us to add new states and transitions without effecting existing code, continuing the theme closed for modification, open for extension.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/11_State.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/11_State.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="State/State.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Design for Testing">
+      <h3>Design for Testing</h3>
+    </a>
+    <p>Code is not inherently testable; it must be designed that way. In this module we look at common issues in code that make it hard to test and how we resolve them. Along the way we will look at Dependency Injection and Inversion of Control containers.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/12_UnitTestingDesign.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/12_UnitTestingDesign.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="DesignForTesting/DesignForTesting.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Test Doubles and Mocking">
+      <h3>Test Doubles and Mocking</h3>
+    </a>
+    <p>Loosely coupling is essential to being able to isolate the code under test – it allows us to provide alternate versions of, say, the data access layer. However, building alternate versions to cover every test scenario would be a significant overhead. Fortunately mocking frameworks come to our rescue, allowing us to create the test conditions “on-the-fly”. In this module we look at how various types of test doubles (fakes, spies, stubs and mocks) can be used to isolate the code unit and how a mocking framework helps automate a lot of this work</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/13_TestDoublesAndMocking.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/13_TestDoublesAnnMocking.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="TestDoubles/TestDoubles.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="Repository Pattern">
+      <h3>Repository Pattern</h3>
+    </a>
+    <p>Object Relational mappers provide a good separation of business logic from persistence logic; however using a given ORM often leads to code being coupled to a particular ORM.  This has two effects, one making it hard to test application logic without a physical database, two results in your code being coupled to a given provider.  The Repository pattern creates an anti-corruption layer to allow you to take advantage of an ORM whilst still maintaining your ability to test, and change your choice of ORM simply and cleanly. Finally we round of this module looking at Unit Of Work pattern to aggregate many repositories and provide centralised change tracking across all the repositories.  In this chapter we will use MS Entity Framework(EF) as an ORM, evolving code from using EF directly to utilising the patterns thus taking full advantage of the ORM whilst keeping our code flexible and testable.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/14_RepositoryPattern.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/14_ReoositoryPattern.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="EFRepository/EFRepository.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <a name="MVC">
+      <h3>MVC</h3>
+    </a>
+    <p>The Model/View/Controller design pattern provides guidance on how to separate the various component parts of a UI application.  Building UI applications without clear separation often leads to the inability to unit test the application, as a tester is required to drive a user interface.  In this chapter we will show how to separate the various concerns to build a testable Web UI application.</p>
+    <p>
+      <ul>
+        <li>
+          <a href="Slides/15_MVC.pdf">Slides</a>
+        </li>
+        <li>
+          <a href="Notes/15_MVC.one">Notes
+              </a>
+        </li>
+        <li>
+          <a href="MVC/MVC.pdf">Exercise
+                  </a>
+        </li>
+      </ul>
+    </p>
+    <p>
+      <a href="http://www.develop.com">
+        <i>© 2012 Developmentor</i>
+      </a>
+    </p>
+  </body>
+</html>

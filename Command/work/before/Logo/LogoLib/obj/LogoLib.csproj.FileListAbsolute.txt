@@ -1,0 +1,5 @@
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoLib\bin\Debug\LogoLib.dll
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoLib\bin\Debug\LogoLib.pdb
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoLib\obj\Debug\ResolveAssemblyReference.cache
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoLib\obj\Debug\LogoLib.dll
+D:\DM\SVN\Patterns\activities\Command\work\before\Logo\LogoLib\obj\Debug\LogoLib.pdb

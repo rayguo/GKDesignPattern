@@ -1,0 +1,6 @@
+D:\git\Labs\Singleton\work\before\BasicSingleton\BasicSingleton\bin\Debug\BasicSingleton.exe.config
+D:\git\Labs\Singleton\work\before\BasicSingleton\BasicSingleton\bin\Debug\BasicSingleton.exe
+D:\git\Labs\Singleton\work\before\BasicSingleton\BasicSingleton\bin\Debug\BasicSingleton.pdb
+D:\git\Labs\Singleton\work\before\BasicSingleton\BasicSingleton\obj\Debug\BasicSingleton.csprojResolveAssemblyReference.cache
+D:\git\Labs\Singleton\work\before\BasicSingleton\BasicSingleton\obj\Debug\BasicSingleton.exe
+D:\git\Labs\Singleton\work\before\BasicSingleton\BasicSingleton\obj\Debug\BasicSingleton.pdb

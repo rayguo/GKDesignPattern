@@ -1,0 +1,14 @@
+C:\demos\TestDoubles\Services\bin\Debug\Services.dll
+C:\demos\TestDoubles\Services\bin\Debug\Services.pdb
+C:\demos\TestDoubles\Services\bin\Debug\ThirdParty.dll
+C:\demos\TestDoubles\Services\bin\Debug\ThirdParty.pdb
+C:\demos\TestDoubles\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\demos\TestDoubles\Services\obj\Debug\Services.dll
+C:\demos\TestDoubles\Services\obj\Debug\Services.pdb
+C:\temp\Labs\TestDoubles\After\Services\bin\Debug\Services.dll
+C:\temp\Labs\TestDoubles\After\Services\bin\Debug\Services.pdb
+C:\temp\Labs\TestDoubles\After\Services\bin\Debug\ThirdParty.dll
+C:\temp\Labs\TestDoubles\After\Services\bin\Debug\ThirdParty.pdb
+C:\temp\Labs\TestDoubles\After\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\temp\Labs\TestDoubles\After\Services\obj\Debug\Services.dll
+C:\temp\Labs\TestDoubles\After\Services\obj\Debug\Services.pdb

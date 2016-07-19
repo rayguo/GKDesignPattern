@@ -1,0 +1,1 @@
+D:\git\Labs\Singleton\work\after\BasicSingleton\bin\Debug\BasicSingleton.exe.config

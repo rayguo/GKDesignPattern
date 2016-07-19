@@ -1,0 +1,10 @@
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\bin\Debug\WinSudoku.exe
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\bin\Debug\WinSudoku.pdb
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\bin\Debug\Sudoku.dll
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\bin\Debug\Sudoku.pdb
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\obj\Debug\ResolveAssemblyReference.cache
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\obj\Debug\WinSudoku.Properties.Resources.resources
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\obj\Debug\WinSudoku.SudokuForm.resources
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\obj\Debug\WinSudoku.csproj.GenerateResource.Cache
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\obj\Debug\WinSudoku.exe
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\WinSudoku\obj\Debug\WinSudoku.pdb

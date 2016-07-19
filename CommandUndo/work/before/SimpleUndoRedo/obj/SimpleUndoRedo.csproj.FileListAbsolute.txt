@@ -1,0 +1,5 @@
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\SimpleUndoRedo\bin\Debug\SimpleUndoRedo.exe
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\SimpleUndoRedo\bin\Debug\SimpleUndoRedo.pdb
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\SimpleUndoRedo\obj\Debug\ResolveAssemblyReference.cache
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\SimpleUndoRedo\obj\Debug\SimpleUndoRedo.exe
+D:\DM\SVN\Patterns\activities\CommandUndo\work\before\SimpleUndoRedo\obj\Debug\SimpleUndoRedo.pdb

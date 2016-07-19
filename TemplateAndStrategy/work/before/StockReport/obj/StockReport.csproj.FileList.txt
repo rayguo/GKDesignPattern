@@ -1,0 +1,5 @@
+bin\Debug\StockReport.exe
+bin\Debug\StockReport.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StockReport.exe
+obj\Debug\StockReport.pdb

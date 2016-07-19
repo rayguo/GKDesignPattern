@@ -1,0 +1,11 @@
+C:\temp\Labs\TestDoubles\After\Services.Test\bin\Debug\Services.Test.dll
+C:\temp\Labs\TestDoubles\After\Services.Test\bin\Debug\Services.Test.pdb
+C:\temp\Labs\TestDoubles\After\Services.Test\bin\Debug\Services.dll
+C:\temp\Labs\TestDoubles\After\Services.Test\bin\Debug\ThirdParty.dll
+C:\temp\Labs\TestDoubles\After\Services.Test\bin\Debug\Services.pdb
+C:\temp\Labs\TestDoubles\After\Services.Test\bin\Debug\ThirdParty.pdb
+C:\temp\Labs\TestDoubles\After\Services.Test\obj\Debug\Services.Test.csprojResolveAssemblyReference.cache
+C:\temp\Labs\TestDoubles\After\Services.Test\obj\Debug\Services.Test.dll
+C:\temp\Labs\TestDoubles\After\Services.Test\obj\Debug\Services.Test.pdb
+C:\temp\Labs\TestDoubles\After\Services.Test\bin\Debug\Rhino.Mocks.dll
+C:\temp\Labs\TestDoubles\After\Services.Test\bin\Debug\Rhino.Mocks.xml
