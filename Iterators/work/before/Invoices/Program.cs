@@ -10,6 +10,11 @@ namespace Invoices
         {
             Invoice invoice = new Invoice();
             invoice.LoadInvoice();
+            IEnumerable<LineItem> allOrders = invoice.GetItems();
+            foreach (LineItem order in allOrders)
+            {
+                Console.WriteLine(order.ToString());
+            }
         }
     }
 }

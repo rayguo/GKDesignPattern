@@ -18,6 +18,11 @@ namespace Invoices
         {
         }
 
+        public IEnumerable<LineItem> GetItems()
+        {
+            return order.GetItems();
+        }
+
         public void LoadInvoice()
         {
             order = new Order();

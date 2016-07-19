@@ -1,4 +1,5 @@
 using System;
+using System.Security.AccessControl;
 using System.Threading;
 
 namespace DelegateConsoleClock
@@ -28,7 +29,8 @@ namespace DelegateConsoleClock
 
             ticker.Done = true;
             thread.Join();
-        }
+
+                    }
     }
 }
 

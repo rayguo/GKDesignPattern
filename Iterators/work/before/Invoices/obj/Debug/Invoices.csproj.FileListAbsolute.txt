@@ -1,0 +1,6 @@
+D:\git\Labs\Iterators\work\before\Invoices\bin\Debug\Invoices.exe.config
+D:\git\Labs\Iterators\work\before\Invoices\bin\Debug\Invoices.exe
+D:\git\Labs\Iterators\work\before\Invoices\bin\Debug\Invoices.pdb
+D:\git\Labs\Iterators\work\before\Invoices\obj\Debug\Invoices.csprojResolveAssemblyReference.cache
+D:\git\Labs\Iterators\work\before\Invoices\obj\Debug\Invoices.exe
+D:\git\Labs\Iterators\work\before\Invoices\obj\Debug\Invoices.pdb
